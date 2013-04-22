@@ -19,3 +19,7 @@ make
 make check
 
 make install
+
+
+
+see SOFTBANS branch for a version that is patched fromt he base version.
