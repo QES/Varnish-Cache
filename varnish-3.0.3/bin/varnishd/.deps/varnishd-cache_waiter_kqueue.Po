@@ -1,0 +1,3 @@
+varnishd-cache_waiter_kqueue.o: cache_waiter_kqueue.c ../../config.h
+
+../../config.h:

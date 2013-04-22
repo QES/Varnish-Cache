@@ -1,0 +1,3 @@
+varnishd-cache_waiter_ports.o: cache_waiter_ports.c ../../config.h
+
+../../config.h:

@@ -1,0 +1,3 @@
+varnishd-storage_umem.o: storage_umem.c ../../config.h
+
+../../config.h:

@@ -1,0 +1,26 @@
+libvarnish_la-vct.lo: vct.c ../../config.h \
+ /usr/lib/gcc/x86_64-amazon-linux/4.6.3/include/stdint.h \
+ /usr/include/stdint.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h /usr/include/bits/wchar.h \
+ ../../include/vct.h
+
+../../config.h:
+
+/usr/lib/gcc/x86_64-amazon-linux/4.6.3/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/bits/wchar.h:
+
+../../include/vct.h:

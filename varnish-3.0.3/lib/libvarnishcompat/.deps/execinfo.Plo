@@ -1,0 +1,3 @@
+execinfo.lo: execinfo.c ../../config.h
+
+../../config.h:
