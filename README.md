@@ -10,7 +10,11 @@ Soft Bans for Varnish Cache 3.0.3
 
 
 autogen.sh
+
 ./configure
+
 make
+
 make check
+
 make install
