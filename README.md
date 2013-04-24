@@ -23,3 +23,8 @@ make install
 
 
 see SOFTBANS branch for a version that is patched fromt he base version.
+
+There are two branches in the version.  The MASTER branch contians the code that I have working on Amazon Linux but it includes all the object files.
+
+The SoftBans version is a clean version without the object files BUT I have not yet got it working 100% and it is not the version I am using in production.
+
